@@ -10,9 +10,23 @@ As the internet becomes ever so widespread, bad actors will arise to take advant
 
 ## Features
 
+- Wormy can scan emails
+  - Phishing
+  - Scams
+- Wormy can scan websites
+  - Pharming websites
+  - Malware Websites
+- Wormy can scan downloaded files
+  - Malware
+
 ## How we are unique
 
+Wormy can detect scams that built in detections in gmail for example cannot. Wormy also does not depend on lists which need to be updtaed.
+
 ## Steps to use
+
+1. Install the extension using chrome that is in the releases page in github.
+2. Add API keys in wormy options page.
 
 ## Troubleshooting
 
@@ -24,4 +38,4 @@ For this extension, the virustotal API is utilised in order to check the safety 
 
 ## Team
 
-Me @yavko :)
+Me [@yavko](https://github.com/yavko) :)
