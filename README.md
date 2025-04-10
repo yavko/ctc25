@@ -21,12 +21,12 @@ As the internet becomes ever so widespread, bad actors will arise to take advant
 
 ## How we are unique
 
-Wormy can detect scams that built in detections in gmail for example cannot. Wormy also does not depend on lists which need to be updtaed.
+Wormy can detect scams that built in detections in Gmail for example cannot. Wormy also does not depend on lists which need to be updated.
 
 ## Steps to use
 
-1. Install the extension using chrome that is in the releases page in github.
-2. Add API keys in wormy options page.
+1. Install the extension using Google Chrome that is in the releases page in GitHub.
+2. Add API keys in Wormy's Options page.
 
 ## Troubleshooting
 
@@ -34,7 +34,7 @@ Double check that all API keys are inputted correctly, and have the correct valu
 
 ## Credits
 
-For this extension, the virustotal API is utilised in order to check the safety of files. Also the google genai API is used, in order to analyze contents of emails and websites, and summarize results.
+For this extension, the VirusTotal API is utilised in order to check the safety of files. Also the Google GenAI API is used, in order to analyze contents of emails and websites, and summarize results.
 
 ## Team
 
